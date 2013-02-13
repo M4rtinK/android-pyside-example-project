@@ -1,0 +1,5 @@
+Android PySide example project
+==============================
+This is an example project that demonstrates how to build
+self-contained Python + PySide + Qt Components Applications
+for Android.
