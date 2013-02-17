@@ -15,4 +15,6 @@
 
 #define QML_IMPORT_PATH "/data/data/org.modrana.PySideExample/files/python/imports/"
 
+#define PYSIDE_APPLICATION_FOLDER "/data/data/org.modrana.PySideExample/"
+
 #endif // MAIN_H
