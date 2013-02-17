@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
     setenv("PATH", PATH, 1);
     setenv("M_THEME_DIR", THEME_PATH, 1);
     setenv("QML_IMPORT_PATH", QML_IMPORT_PATH, 1);
-    setenv("PYSIDE_APPLICATION_FOLDER", QML_IMPORT_PATH, 1);
+    setenv("PYSIDE_APPLICATION_FOLDER", PYSIDE_APPLICATION_FOLDER, 1);
 
     //QApplication app(argc, argv);
     Py_Initialize();
